@@ -30,6 +30,7 @@
                             <mainClass>src/main/java/main/app/MainApp.java</mainClass>
                         </configuration>
                     </execution>
+
                 </executions>
             </plugin>
         </plugins>
