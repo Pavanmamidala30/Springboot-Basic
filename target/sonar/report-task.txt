@@ -1,0 +1,6 @@
+projectKey=pavan
+serverUrl=https://sonar-prod.eficens.cloud
+serverVersion=9.9.1.69595
+dashboardUrl=https://sonar-prod.eficens.cloud/dashboard?id=pavan
+ceTaskId=AYjzbEYfDN6AKchjbbzA
+ceTaskUrl=https://sonar-prod.eficens.cloud/api/ce/task?id=AYjzbEYfDN6AKchjbbzA
