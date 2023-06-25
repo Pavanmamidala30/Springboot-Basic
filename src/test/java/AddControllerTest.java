@@ -10,12 +10,6 @@ public class AddControllerTest {
     int c = a+b;
     @Test
     public void testAddNumbers() {
-
-
-        /*String requestBody = "{\n" +
-                "  \"number1\": 10,\n" +
-                "  \"number2\": 20\n" +
-                "}";*/
         String requestBody = "{\n" +
                 "  \"number1\": "+a+",\n" +
                 "  \"number2\": "+b+"\n" +
@@ -32,12 +26,6 @@ public class AddControllerTest {
     }
     @Test
     public void testAddTwoNulls() {
-
-
-        /*String requestBody = "{\n" +
-                "  \"number1\": 10,\n" +
-                "  \"number2\": 20\n" +
-                "}";*/
         String requestBody = "{\n" +
                 "  \"number1\": "+null+",\n" +
                 "  \"number2\": "+null+"\n" +
