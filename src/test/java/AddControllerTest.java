@@ -57,8 +57,6 @@ public class AddControllerTest {
                 .post("http://localhost:8081/integers/add")
                 .then()
                 .statusCode(400);
+
     }
-
-
-
 }
